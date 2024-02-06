@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Контакты:
+### :mailbox: Контакты:
 [<img height="42" width="42" src="https://cdn.simpleicons.org/telegram">](https://t.me/md_shka)
 ![]()
 ![]()
