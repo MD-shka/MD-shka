@@ -1,8 +1,7 @@
 ### Hi there 👋
 решаю задачи на Codewars.
 
-[![CodeWars](https://www.codewars.com/users/MD-shka/badges/micro)](https://www.codewars.com/dashboard)
-
+[![CodeWars](https://www.codewars.com/users/MD-shka/badges/large)](https://www.codewars.com/dashboard)
 <!--
 **MD-shka/MD-shka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[<img height="42" width="42" src="https://cdn.simpleicons.org/telegram">](https://t.me/md_shka)
