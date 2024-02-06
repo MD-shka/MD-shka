@@ -16,4 +16,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Контакты:
 [<img height="42" width="42" src="https://cdn.simpleicons.org/telegram">](https://t.me/md_shka)
+![]()
+![]()
+[<img height="42" width="42" src="https://cdn.simpleicons.org/gmail">](mailto:pe.egorov@gmail.com)
+![]()
+![]()
+[<img height="42" width="42" src="https://cdn.simpleicons.org/whatsapp">](https://wa.me/79219662918)
+![]()
+![]()
+[<img height="42" width="42" src="https://cdn.simpleicons.org/linkedin">](https://www.linkedin.com/in/mikhail-egorov-5ab45b255)
