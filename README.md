@@ -74,7 +74,7 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 [<img src="https://cdn.simpleicons.org/whatsapp" height="42" width="42">](https://wa.me/79219662918)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/linkedin" height="42" width="42">](https://www.linkedin.com/in/mikhail-egorov-5ab45b255)
+[<img src="https://cdn.simpleicons.org/linkedin" height="42" width="42">](www.linkedin.com/in/mdshka)
 
 
 [![CodeWars](https://www.codewars.com/users/MD-shka/badges/small)](https://www.codewars.com/dashboard)
