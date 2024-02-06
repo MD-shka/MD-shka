@@ -68,13 +68,16 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 [<img src="https://cdn.simpleicons.org/telegram" height="42" width="42">](https://t.me/md_shka)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/gmail" height="42" width="42">](mailto:pe.egorov@gmail.com)
+[<img src="https://cdn.simpleicons.org/habr" height="42" width="42">](https://career.habr.com/md-shka)
 ![]()
 ![]()
 [<img src="https://cdn.simpleicons.org/whatsapp" height="42" width="42">](https://wa.me/79219662918)
 ![]()
 ![]()
 [<img src="https://cdn.simpleicons.org/linkedin" height="42" width="42">](https://www.linkedin.com/in/mdshka/)
+![]()
+![]()
+[<img src="https://cdn.simpleicons.org/gmail" height="42" width="42">](mailto:pe.egorov@gmail.com)
 
 
 [![CodeWars](https://www.codewars.com/users/MD-shka/badges/small)](https://www.codewars.com/dashboard)
