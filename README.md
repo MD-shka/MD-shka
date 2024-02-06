@@ -4,7 +4,15 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 ### :computer: Cтек:
 [<img src="https://cdn.simpleicons.org/python" title="python" alt="python" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
+![]()<!--[<img src="https://cdn.simpleicons.org/django" title="django" alt="django" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
+![]()
+[<img src="https://cdn.simpleicons.org/flask" title="flask" alt="flask" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()
+[<img src="https://cdn.simpleicons.org/fastapi" title="fastapi" alt="fastapi" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()-->
 [<img src="https://cdn.simpleicons.org/postgresql" title="postgresql" alt="postgresql" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
@@ -25,7 +33,9 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 ![]()
 [<img src="https://cdn.simpleicons.org/pytest" title="pytest" alt="pytest" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
+![]()<!--[<img src="https://cdn.simpleicons.org/docker" title="docker" alt="docker" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
+![]()-->
 [<img src="https://cdn.simpleicons.org/git" title="git" alt="git" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
