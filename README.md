@@ -1,4 +1,7 @@
 ### Hi there 👋
+решаю задачи на Codewars.
+
+[![CodeWars](https://www.codewars.com/users/MD-shka/badges/micro)](https://www.codewars.com/dashboard)
 
 <!--
 **MD-shka/MD-shka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
