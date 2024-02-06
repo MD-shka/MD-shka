@@ -60,8 +60,8 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 
 
 ### :clipboard: Резюме:
-* RU
-* EN
+* [RU](https://career.habr.com/md-shka)
+* [EN](https://www.linkedin.com/in/mdshka)
 
 
 ### :mailbox: Контакты:
