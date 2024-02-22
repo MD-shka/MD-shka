@@ -33,9 +33,10 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 ![]()
 [<img src="https://cdn.simpleicons.org/pytest" title="pytest" alt="pytest" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
-![]()<!--[<img src="https://cdn.simpleicons.org/docker" title="docker" alt="docker" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
-![]()-->
+[<img src="https://cdn.simpleicons.org/docker" title="docker" alt="docker" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()
 [<img src="https://cdn.simpleicons.org/git" title="git" alt="git" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
