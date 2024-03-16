@@ -6,10 +6,10 @@ Junior Python Developer, стремлюсь начать карьеру в IT. �
 ![]()
 ![]()<!--[<img src="https://cdn.simpleicons.org/django" title="django" alt="django" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
-![]()
+![]()-->
 [<img src="https://cdn.simpleicons.org/flask" title="flask" alt="flask" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
-![]()
+![]()<!--
 [<img src="https://cdn.simpleicons.org/fastapi" title="fastapi" alt="fastapi" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()-->
