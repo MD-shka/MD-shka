@@ -1,42 +1,29 @@
 ### :black_nib: Обо мне:
 
-Привет! Я - Junior Python Developer, нахожусь в поиске работы, где смогу применить свои навыки, развиваться и осваивать новые технологии. Имею минимальный коммерческий опыт, активно изучаю новые технологии и практикуюсь в написании [проектов](<https://github.com/MD-shka?tab=repositories&q=&type=&language=&sort=stargazers>):
-Телеграм бот для изучения иностранного языка, веб-приложение анализирующее страницы, утилита для сравнения данных и набор игр для мозговой тренировки, решаю задачи на [Codewars](<https://www.codewars.com/users/MD-shka>).
-В проектах использовал Python 3.10, Git, Poetry, Makefile, FastAPI, Asyncio, Aiogram 3, Flask, PostgresSQL, PyTest, Docker, Docker Compose и CI/CD через GitHub Actions. Этот опыт развил навыки создания структуры проекта, тестирования кода и успешной публикации.
-Вне IT, имею обширный опыт в продажах, что придаёт мне ответственность, коммуникабельность, навыки работы в команде и стрессоустойчивость. Участвовал во внедрении CRM-системы Bitrix24 и создавал скрипты для автоматизации отчетов.
-Готов к активной командной работе и убежден, что смогу стать ценным членом вашей команды!
+Привет! Я Junior Python Developer. Изучаю новые технологии и развиваю навыки через написание [проектов](<https://github.com/MD-shka?tab=repositories&q=&type=&language=&sort=stargazers>) и решение задач на [Codewars](<https://www.codewars.com/users/MD-shka>).
+В проектах использую Python, PostgresSQL, FastAPI, Django, Git, Aiogram 3, Docker. Мой опыт охватывает проектирование, тестирование и публикацию приложений.
+Вне IT, имею большой опыт в продажах, что помогло развить командную работу, стрессоустойчивость и коммуникативные навыки.
 
 ### :computer: Cтек:
 [<img src="https://cdn.simpleicons.org/python" title="python" alt="python" height="42" width="42" style="pointer-events: none;">](#)
-![]()
-![]()<!--[<img src="https://cdn.simpleicons.org/django" title="django" alt="django" height="42" width="42" style="pointer-events: none;">](#)
-![]()
-![]()-->
-[<img src="https://cdn.simpleicons.org/flask" title="flask" alt="flask" height="42" width="42" style="pointer-events: none;">](#)
-![]()
-![]()
-[<img src="https://cdn.simpleicons.org/fastapi" title="fastapi" alt="fastapi" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
 [<img src="https://cdn.simpleicons.org/postgresql" title="postgresql" alt="postgresql" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/mysql" title="mysql" alt="mysql" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/fastapi" title="fastapi" alt="fastapi" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/html5" title="html5" alt="html5" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/sqlalchemy" title="sqlalchemy" alt="sqlalchemy" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/css3" title="css3" alt="css3" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/django" title="django" alt="django" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()
+[<img src="https://cdn.simpleicons.org/redis" title="redis" alt="redis" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
 [<img src="https://cdn.simpleicons.org/poetry" title="poetry" alt="poetry" height="42" width="42" style="pointer-events: none;">](#)
-![]()
-![]()
-[<img src="https://cdn.simpleicons.org/make" title="make" alt="make" height="42" width="42" style="pointer-events: none;">](#)
-![]()
-![]()
-[<img src="https://cdn.simpleicons.org/pytest" title="pytest" alt="pytest" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
 [<img src="https://cdn.simpleicons.org/docker" title="docker" alt="docker" height="42" width="42" style="pointer-events: none;">](#)
@@ -45,20 +32,27 @@
 [<img src="https://cdn.simpleicons.org/git" title="git" alt="git" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/githubactions" title="githubactions" alt="githubactions" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/celery" title="celery" alt="celery" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/figma" title="figma" alt="figma" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/rabbitmq" title="rabbitmq" alt="rabbitmq" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
 [<img src="https://cdn.simpleicons.org/linux" title="linux" alt="linux" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/gnubash" title="gnubash" alt="gnubash" height="42" width="42" style="pointer-events: none;">](#)
+[<img src="https://cdn.simpleicons.org/nginx" title="nginx" alt="nginx" height="42" width="42" style="pointer-events: none;">](#)
 ![]()
 ![]()
-[<img src="https://cdn.simpleicons.org/windows" title="windows" alt="windows" height="42" width="42" style="pointer-events: none;">](#)
-
+[<img src="https://cdn.simpleicons.org/flask" title="flask" alt="flask" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()
+[<img src="https://cdn.simpleicons.org/clickhouse" title="clickhouse" alt="clickhouse" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()
+[<img src="https://cdn.simpleicons.org/pytest" title="pytest" alt="pytest" height="42" width="42" style="pointer-events: none;">](#)
+![]()
+![]()
 
 ### :floppy_disk: Проекты:
 * [Words_learning_bot](https://github.com/MD-shka/english_words_learning_bot) - Бот для изучения иностранного языка, со статистикой и разными режимами тренировки.
